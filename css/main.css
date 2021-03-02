@@ -1773,6 +1773,10 @@ fieldset[disabled]
   background-color: #FFFFFF;
   border-color: #378C3F; }
 
+.highlight{
+  background-color: #ee3;
+  text-decoration-color: black;
+}
 .input-group-focus.form-group-no-border .input-group-addon {
   background-color: rgba(222, 222, 222, 0.5); }
 
